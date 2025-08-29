@@ -63,4 +63,4 @@ chmod +x your_file
 ## 👤 Author
 
 **Dytoma Batogouma**  
-💼 [LinkedIn](https://www.linkedin.com/in/dytoma-batogouma-6aa946235/) • 🌐 [Portfolio](dytoma.fr) • 📧 dytomaomar@gmail.com 
+💼 [LinkedIn](https://www.linkedin.com/in/dytoma-batogouma-6aa946235/) • 🌐 [Portfolio](https://dytoma.fr) • 📧 dytomaomar@gmail.com 
